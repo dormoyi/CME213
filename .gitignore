@@ -1,0 +1,17 @@
+*.out
+nsys.*
+Outputs
+Outputs_double
+cuda_helper
+dep
+*.utils
+*.zip
+ncompute.ncu-rep
+build
+googletest-main
+googletest
+test_files
+*.o
+params.in
+*.csv
+*.a
